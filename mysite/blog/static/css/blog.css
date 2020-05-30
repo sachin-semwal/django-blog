@@ -1,0 +1,37 @@
+.brand{
+  font-family: 'Jost';
+}
+
+.navbar-light .navbar-nav .nav-link > .welcome {
+  color: blue;
+}
+
+.about {
+  font-family: cursive;
+  text-align: center;
+}
+
+.about-img {
+  width: 500px;
+  height: 500px;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+.welcome {
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #468284;
+}
+
+.navbar-light .navbar-brand {
+  color: #CA3433;
+}
+
+.navbar-light .navbar-nav .active .welcome>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+  color: #468284;
+}
